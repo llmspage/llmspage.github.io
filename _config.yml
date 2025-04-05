@@ -23,13 +23,13 @@ minimal_mistakes_skin: mint
 search: true
 logo: "/assets/images/shop-logo.png"
 
-google_site_verification: "4GuFDe5oDc6hmt8IW8FP0MiR3b7q-Pc1a62SKWN4f8U"
-bing_site_verification: "0493A2BE4E47407E67B19ACC1DCF182A"
+google_site_verification: "esaOSHnSWn9voFFKn4BoQZl5uVuELSVWxM62dhFS6P4"
+bing_site_verification: "FDCF20F2F2CF041A5896891B06769F8D"
 
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-KET37K14GH"
+    tracking_id: "G-7R7P53DMPL"
     anonymize_ip: false # default
 
 # Build settings
