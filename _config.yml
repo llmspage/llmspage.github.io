@@ -29,7 +29,7 @@ bing_site_verification: "FDCF20F2F2CF041A5896891B06769F8D"
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-7R7P53DMPL"
+    tracking_id: "G-KET37K14GH"
     anonymize_ip: false # default
 
 # Build settings
